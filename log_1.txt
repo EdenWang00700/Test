@@ -1,3 +1,3 @@
-Git is a distributed version contrile system.
-Git is a free software.
+Git Git is a distributed version contrile system.
+Git Git is a free software.
 1479619963255:User cn.tedu.note.service.UserService.login(String,String):6394965121479619963380:boolean cn.tedu.note.service.UserService.checkToken(String,String):25965221479619964277:boolean cn.tedu.note.service.UserService.checkToken(String,String):16277001479619964286:List cn.tedu.note.service.NotebookService.listNotebooks(String):53323401479619969903:boolean cn.tedu.note.service.UserService.checkToken(String,String):38089191479619969916:List cn.tedu.note.service.NoteService.listNotes(String):68265721479619971854:boolean cn.tedu.note.service.UserService.checkToken(String,String):44355171479619971863:List cn.tedu.note.service.NoteService.listNotes(String):64080001479619974711:boolean cn.tedu.note.service.UserService.checkToken(String,String):27614641479619974717:Note cn.tedu.note.service.NoteService.loadNote(String):34661021479621833073:User cn.tedu.note.service.UserService.login(String,String):91226570281479621939717:boolean cn.tedu.note.service.UserService.checkToken(String,String):3764061471
